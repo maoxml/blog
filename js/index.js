@@ -9,10 +9,10 @@ window.$docsify = {
     // coverpage: true, //封面页
     mergeNavbar: true, //小屏设备下合并导航栏到侧边栏。
     loadNavbar: true,//导航
-    name: '笔记',
+    name: '',
     maxLevel: 3,
     themeColor: '#39BAE8',
-    // repo: 'https://github.com/mxrain/mxrain.github.io',
+    repo: 'maox.ml',
     formatUpdated: '{MM}/{DD} {HH}:{mm}',//更新时间格式
 
     // 添加一键拷贝
@@ -33,4 +33,5 @@ window.$docsify = {
       crossChapter: true,
       crossChapterText: true,
     },
+    
   }
