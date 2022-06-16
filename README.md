@@ -1,8 +1,8 @@
 # 介绍
 
-> 2021年11月5日
+> 2022年6月16日
     
-项目由`docsify`搭建 托管于github pages
+项目由`docsify`搭建 托管于 `Github Pages`
 
 用于记录学习笔记
 
