@@ -12,7 +12,7 @@ window.$docsify = {
     name: '',
     maxLevel: 3,
     themeColor: '#39BAE8',
-    #repo: 'maoxml',
+    // repo: 'maoxml',
     formatUpdated: '{MM}/{DD} {HH}:{mm}',//更新时间格式
 
     // 添加一键拷贝
