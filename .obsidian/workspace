@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "随手一记/blog.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随手一记/blog.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,11 @@
   },
   "active": "afa87bd8675cab98",
   "lastOpenFiles": [
-    "随手一记/blog.md",
     "README.md",
     "_sidebar.md",
+    "随手一记/blog.md",
+    "随手一记/test.md",
+    "bilibili/blog.md",
     "_navbar.md",
     "_coverpage.md"
   ]

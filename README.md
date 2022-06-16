@@ -2,8 +2,6 @@
 
 > 2022年6月16日
     
-项目由`docsify`搭建 托管于 `Github Pages`
+本网站由`docsify`搭建 托管于 `Github Pages` 
 
-用于记录学习笔记
-
-![图片](https://pic.yupoo.com/mxrain/9c533397/4c963836.jpg)
+用于 分享文档 和 随手记录 
