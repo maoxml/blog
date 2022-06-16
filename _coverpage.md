@@ -1,6 +1,6 @@
-<!-- _coverpage.md -->
+<!-- _coverpage.md 主页 -->
 
-![logo](_media/icon.svg)
+![logo]()
 
 # 
 
