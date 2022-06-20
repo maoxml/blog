@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT书/docker实战/2.2 docker 守护进程.md",
+            "file": "_sidebar.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT书/docker实战/2.2 docker 守护进程.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "afa87bd8675cab98",
   "lastOpenFiles": [
+    "_sidebar.md",
     "IT书/docker实战/2.2 docker 守护进程.md",
     "IT书/docker实战/1.2 构建一个dockerfile.md",
     "IT书/docker实战/0. 书本信息.md",
     "_navbar.md",
     "_coverpage.md",
-    "_sidebar.md",
     "().md",
     "IT书%2Fdocker实战%2F0. 书本信息.md",
     "IT书/0..md",
