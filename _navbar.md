@@ -5,3 +5,4 @@
 - 友链
 	- [Google](google.com)
 
+- [收藏网站](收藏网站.md)
