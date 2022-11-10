@@ -1,10 +1,13 @@
 
-- [bilibili]()  
-  - [blog](bilibili/blog.md)  
+- [软件]()  
+  - [jewelCad 3天入门]()  
+    - [1. 布局](软件/jewelCad%203天入门/1.%20布局.md)  
+    - [2. 绘图环境设置](软件/jewelCad%203天入门/2.%20绘图环境设置.md)  
+    - [3 检视操作](软件/jewelCad%203天入门/3%20检视操作.md)  
+    - [4 对象选取操作](软件/jewelCad%203天入门/4%20对象选取操作.md)  
+    - [5. 编辑](软件/jewelCad%203天入门/5.%20编辑.md)  
+    - [6. 复制](软件/jewelCad%203天入门/6.%20复制.md)  
+    - [7. 变形](软件/jewelCad%203天入门/7.%20变形.md)  
 
-- [IT书]()  
-  - [docker实战]()  
-    - [0. 书本信息](IT书/docker实战/0.%20书本信息.md)  
-    - [1.2 构建一个dockerfile](IT书/docker实战/1.2%20构建一个dockerfile.md)  
-    - [2.2 docker 守护进程](IT书/docker实战/2.2%20docker%20守护进程.md)  
+
 
