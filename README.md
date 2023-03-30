@@ -6,3 +6,12 @@
 
 用于 分享文档 和 随手记录 
 
+```3D
+./models/DamagedHelmet.gltf
+
+```
+
+<!-- 
+```3D
+./models/8.glb
+``` -->
